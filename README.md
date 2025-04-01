@@ -1,2 +1,2 @@
-# plugin-assets
-Assets for the bakkesmod plugins I make
+# plugin-data
+Data used for the bakkesmod plugins I make
